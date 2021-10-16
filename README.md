@@ -1,6 +1,8 @@
 # cmake_tutorial
 
-Install cmake in your local pc and execute the following
+Install cmake in your local pc 
+
+create a build folder in the current folder and execute the following in command prompt of build folder
 
 cmake ../
 
